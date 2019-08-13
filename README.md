@@ -10,5 +10,6 @@ summary - 1) IUCN 사이트에서 7만 여개의 종 데이터 수집
           4) SMOTE, Bayesian Optimization을 통한 반응변수 Unbalance 문제 해결
           5) Ordinal Logistic Regression, GAM을 통한 해석모형 적합
           6) XG Boost, CAT Boost, KNN 등의 분류모형으로 최종 예측
+          7) SMOTE기법 사용으로 accuracy 2% 증가. 
           
           
